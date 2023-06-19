@@ -1,0 +1,12 @@
+App-Service-RG-name = "my_new_app_service_resource"
+service_plan_name = "myserviceplan1232"
+My_service_name = "myappaservicename1232"
+SKU_Tier = "Basic"
+SKU_Size = "B1"
+
+location = "East US"
+Vnet-Hub-Azure = "AZ-vnet-main"
+vmname = "myVMasdasd"
+vmsizing = "Standard_B1ls"
+admin_username = "UsernameFirstRoot"
+VM_Password = "Password.123@321!"
