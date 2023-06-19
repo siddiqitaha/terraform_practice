@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rg" {
-  name     = var.App-Service-RG-name
+  name     = "${var.App-Service-RG-name}New"
   location = var.location
 }
 
